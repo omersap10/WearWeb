@@ -1,7 +1,9 @@
 # WearWeb: Fullstack E-Commerce Application
 ## Tech Stack
 **Backend:** Node.js with Express
+
 **Frontend:** React.js
+
 **Database:** MongoDB
 
 ## About WearWeb:
